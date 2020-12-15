@@ -1,4 +1,5 @@
-# Moddhopara Granite Company Limited
+# Redux BoilerPlate
 
-Redux
+Two types of login authentication
+Those are 'Agent' and 'Admin' authentication
 
